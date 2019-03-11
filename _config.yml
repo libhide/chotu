@@ -1,8 +1,14 @@
 title: Site Title
+name: Site Title
+locale: en_us
 description: >- 
-  Site description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  This is the site description
+url: "www.example.com"
+graph: "path/to/the/social/media/share/image"
 
 sass:
   style: compressed
   sass_dir: _sass
+
+author:
+  twitter: TwitterUsername
