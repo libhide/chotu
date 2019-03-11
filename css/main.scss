@@ -1,0 +1,12 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "normalize";
+@import "vars";
+@import "base";
+
+// Temp Styles
+body {
+  background-color: lighten($color: pink, $amount: 5%);
+}
